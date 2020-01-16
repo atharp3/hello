@@ -2,7 +2,7 @@
 
 int main(void) {
 
-	printf("Andre Tharp\n");
+	printf("Andre Tharp\nElectrical Engineering\n");
 	return 0;
 
 }
